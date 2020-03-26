@@ -1,7 +1,8 @@
-Zach Rooney
-CS 1C
+HashingProject
 
-rooneyz-project07
+For this project we were given a basic hashing example and had to add the functionality of being able to manage the hashed 
+items by a KeyType. It included creating a wrapper class that would hold a generic object to hash. It was tested with a 
+JSON file that contained a large amount of songs.
 
 
 Brief description of submitted files:
